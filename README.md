@@ -51,7 +51,7 @@ Sistem otomatisasi penutrisi hidroponik 70L dengan optimasi logika anti-stuck da
 ## 📫 Mari Terhubung
 - 💬 **GitHub:** [@k4nza](https://github.com/k4nza)
 - 🌐 **Project:** Kanza Smart Garden
-- KANZA SMART ECOSYSTEM
+- 🌐 **KANZA SMART ECOSYSTEM**
   "Our garden and home are always with us, no matter where we are."
 
 <div align="center">
